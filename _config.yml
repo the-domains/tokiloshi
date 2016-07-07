@@ -1,5 +1,6 @@
-layout_spectrum: 0.2507065632380545
 typography_spectrum: 0.23110481700859964
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7002954850904644
   lightness: 0.23575709853321314
@@ -11,4 +12,8 @@ color:
     - '#911146'
     - '#CF4A30'
     - '#ED8C2B'
+layout_spectrum: 0.2507065632380545
+author:
+  name: Michael
 name: Tokiloshi
+title: 'There is a devil in all of us. '
