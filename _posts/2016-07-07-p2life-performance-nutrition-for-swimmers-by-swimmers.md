@@ -15,10 +15,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.p2life.com/'
 title: P2Life - Performance Nutrition for Swimmers by Swimmers
-datePublished: '2016-07-07T03:25:48.471Z'
-dateModified: '2016-07-07T03:25:48.016Z'
+datePublished: '2016-07-07T03:26:01.109Z'
+dateModified: '2016-07-07T03:22:12.453Z'
+starred: false
 sourcePath: _posts/2016-07-07-p2life-performance-nutrition-for-swimmers-by-swimmers.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
